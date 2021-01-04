@@ -42,9 +42,10 @@ author-name: Marcio Oliveira
 # URL for the Image of the Author
 author-image: assets\images\author.png
 # 60 Words About the Author
-author-about: I am a Software Developer crossing multiple fields, from Bioinformatics to Embedded Systems. I spend some time on<a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=Zkf5tGMAAAAJ&hl">R&D</a>of tools for Hardware and Software co-development, such as estimation and design space exploration using the Model-Driven Development approach, which was the theme of my Ph.d. But I also developed tools for simulation and verification at that time. Now I am at<a target="_blank" rel="noopener noreferrer" href=https://www.itemis.de/">itemis AG</a>, which is a consulting company. There I can work on quite different topics, such as Software Product-Line Engineering Tools or support the definition of Software Development process for Automotive Companies. Now I am focusing on Web Development, which I had my first experience with a long time ago. I believe we can write good software to support people in our daily activities, by building up bricks of solutions that sustain the bridge used by people to reach their next goal. That includes software to make software because many projects are still drifting on their way to success.
+author-about: I am a Software Developer crossing multiple fields, from Bioinformatics to Embedded Systems. I spend some time on R&D of tools for Hardware and Software co-development, such as estimation and design space exploration using the Model-Driven Development approach, which was the theme of my Ph.d. But I also developed tools for simulation and verification at that time. Now I am at<a target="_blank" rel="noopener noreferrer" href=https://www.itemis.de/">itemis AG</a>, which is a consulting company. There I worked on quite different topics, such as Software Product-Line Engineering Tools or support the definition of Software Development Process for Automotive Companies. Currently, I am focusing on Web Development and Enterprise Software. I believe we can write better software to support people in their daily activities, building up bricks of solutions that sustain the bridge used to reach their next goal.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/mfsoliveira
 
 # SASS
 sass:
